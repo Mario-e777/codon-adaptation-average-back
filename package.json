@@ -1,0 +1,19 @@
+{
+  "author": "Mario Eduardo Contreras Serrano",
+  "name": "codonadaptationaverage",
+  "description": "",
+  "version": "1.0.0",
+  "license": "ISC",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@cubejs-client/core": "^0.31.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.22"
+  }
+}
